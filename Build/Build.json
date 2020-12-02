@@ -1,6 +1,6 @@
 {
-"companyName": "ArbitCompany",
-"productName": "Calculator",
+"companyName": "Arbit_Horoscop",
+"productName": "Horoscop",
 "dataUrl": "Build.data.unityweb",
 "wasmCodeUrl": "Build.wasm.code.unityweb",
 "wasmFrameworkUrl": "Build.wasm.framework.unityweb",
